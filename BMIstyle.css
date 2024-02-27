@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-image: url(/images/backgroundBMI.jpeg);
+    background-image: url(/images/bmiBackground.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -55,4 +55,5 @@ body {
     margin-top: 20px;
     text-align: center;
     padding: 5px;
+    color: #333;
 }
