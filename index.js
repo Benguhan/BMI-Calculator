@@ -11,7 +11,7 @@ document.getElementById("mySubmit").onclick = function () {
     let bmi = weight / (height * height);
     console.log(bmi);
 
-    
+    //document.getElementById("result").textContent = `Your BMI is: ${bmi.toFixed(2)}`;
     document.getElementById("result").innerHTML = bmi.toFixed(2);
 
     if (bmi < 18.5) {
