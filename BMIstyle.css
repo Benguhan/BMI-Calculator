@@ -63,5 +63,7 @@ body {
     .container {
         width: 30%;
     }
-
+    .result {
+        width: 30%;
+    }
 }
